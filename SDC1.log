@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  9 JUL 2020 22:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  9 JUL 2020 22:21
 entering extended mode
 **./SDC1.tex
 (SDC1.tex
@@ -991,7 +991,7 @@ Package csquotes Info: Making character " active on input line 47.
 <./NIT_Silchar_logo.png, id=4, 76.1244pt x 75.8835pt>
 File: ./NIT_Silchar_logo.png Graphic file (type png)
 <use ./NIT_Silchar_logo.png>
-Package pdftex.def Info: ./NIT_Silchar_logo.png  used on input line 55.
+Package pdftex.def Info: ./NIT_Silchar_logo.png  used on input line 54.
 (pdftex.def)             Requested size: 172.13pt x 171.61858pt.
 
 LaTeX Warning: No \author given.
@@ -1019,7 +1019,7 @@ Here is how much of TeX's memory you used:
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lenovo/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on SDC1.pdf (4 pages, 117669 bytes).
+Output written on SDC1.pdf (4 pages, 117667 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
