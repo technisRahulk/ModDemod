@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  11 JUL 2020 02:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  11 JUL 2020 02:53
 entering extended mode
 **./SDC1.tex
 (SDC1.tex
@@ -1048,10 +1048,10 @@ Package pdftex.def Info: ./AM modulation_1.png  used on input line 337.
 <BD1.png, id=62, 1176.64594pt x 414.79968pt>
 File: BD1.png Graphic file (type png)
 <use BD1.png>
-Package pdftex.def Info: BD1.png  used on input line 416.
+Package pdftex.def Info: BD1.png  used on input line 429.
 (pdftex.def)             Requested size: 470.65004pt x 165.91693pt.
 
-Overfull \hbox (17.68214pt too wide) in paragraph at lines 416--417
+Overfull \hbox (17.68214pt too wide) in paragraph at lines 429--430
 [][] 
  []
 
@@ -1059,7 +1059,7 @@ Overfull \hbox (17.68214pt too wide) in paragraph at lines 416--417
 <BD2.png, id=70, 962.84718pt x 336.50719pt>
 File: BD2.png Graphic file (type png)
 <use BD2.png>
-Package pdftex.def Info: BD2.png  used on input line 467.
+Package pdftex.def Info: BD2.png  used on input line 480.
 (pdftex.def)             Requested size: 385.13205pt x 134.60048pt.
  [15 <./BD2.png>] [16] [17] [18] [19] [20] (SDC1.aux)
 
@@ -1089,7 +1089,7 @@ ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/lenovo/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users
 /lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.
 pfb>
-Output written on SDC1.pdf (21 pages, 535493 bytes).
+Output written on SDC1.pdf (21 pages, 536865 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
