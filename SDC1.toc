@@ -10,10 +10,14 @@
 \contentsline {subsection}{\numberline {2.3}Types of Modulation}{4}%
 \contentsline {subsection}{\numberline {2.4}Modulation Process}{4}%
 \contentsline {subsection}{\numberline {2.5}Modulation Process}{4}%
-\contentsline {section}{\numberline {3}Amplitude Modulation}{5}%
-\contentsline {section}{\numberline {4}Frequency Modulation}{6}%
-\contentsline {section}{\numberline {5}Experimentation}{7}%
-\contentsline {section}{\numberline {6}Simulation}{8}%
-\contentsline {section}{\numberline {7}Code}{9}%
-\contentsline {section}{\numberline {8}Attenuation}{10}%
-\contentsline {section}{\numberline {9}Demodulation}{11}%
+\contentsline {section}{\numberline {3}Amplitude Modulation(AM)}{5}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{5}%
+\contentsline {subsection}{\numberline {3.2}Modulation Process}{5}%
+\contentsline {subsection}{\numberline {3.3}Types of Amplitude Modulation}{7}%
+\contentsline {subsection}{\numberline {3.4}Advantages}{7}%
+\contentsline {section}{\numberline {4}Frequency Modulation}{8}%
+\contentsline {section}{\numberline {5}Experimentation}{9}%
+\contentsline {section}{\numberline {6}Simulation}{10}%
+\contentsline {section}{\numberline {7}Code}{11}%
+\contentsline {section}{\numberline {8}Attenuation}{12}%
+\contentsline {section}{\numberline {9}Demodulation}{13}%

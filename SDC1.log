@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  9 JUL 2020 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  10 JUL 2020 23:27
 entering extended mode
 **./SDC1.tex
 (SDC1.tex
@@ -1006,23 +1006,54 @@ har_logo.png>] [1] (SDC1.toc)
 
  [2] [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11]
-(SDC1.aux) ) 
+] [4]
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+ [5]
+<./SDC-Phase Reversal_1.png, id=31, 403.5075pt x 239.39438pt>
+File: ./SDC-Phase Reversal_1.png Graphic file (type png)
+<use ./SDC-Phase Reversal_1.png>
+Package pdftex.def Info: ./SDC-Phase Reversal_1.png  used on input line 185.
+(pdftex.def)             Requested size: 271.7835pt x 161.2445pt.
+ [6 <./SDC-Phase Reversal_1.png>] [7] [8] [9] [10] [11] [12] [13] (SDC1.aux) ) 
 Here is how much of TeX's memory you used:
- 28539 strings out of 480898
- 708490 string characters out of 2897827
- 1058529 words of memory out of 3000000
- 43939 multiletter control sequences out of 15000+200000
- 538938 words of font info for 47 fonts, out of 3000000 for 9000
+ 29079 strings out of 480898
+ 723377 string characters out of 2897827
+ 1679730 words of memory out of 3000000
+ 44476 multiletter control sequences out of 15000+200000
+ 539622 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,98p,813b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lenovo/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on SDC1.pdf (12 pages, 126005 bytes).
+ 69i,9n,100p,813b,2153s stack positions out of 5000i,500n,10000p,200000b,50000s
+{
+C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-s
+uper-ts1.enc}<C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/lenovo/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/lenovo/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/l
+enovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/lenovo/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/lenovo/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on SDC1.pdf (14 pages, 311021 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
