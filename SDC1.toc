@@ -7,17 +7,15 @@
 \contentsline {section}{\numberline {2}Modulation}{4}%
 \contentsline {subsection}{\numberline {2.1}Need of Modulation}{4}%
 \contentsline {subsection}{\numberline {2.2}Antenna Theory}{4}%
-\contentsline {subsection}{\numberline {2.3}Types of Modulation}{4}%
-\contentsline {subsection}{\numberline {2.4}Modulation Process}{4}%
-\contentsline {subsection}{\numberline {2.5}Modulation Process}{4}%
-\contentsline {section}{\numberline {3}Amplitude Modulation(AM)}{5}%
-\contentsline {subsection}{\numberline {3.1}Introduction}{5}%
-\contentsline {subsection}{\numberline {3.2}Modulation Process}{5}%
-\contentsline {subsection}{\numberline {3.3}Types of Amplitude Modulation}{7}%
-\contentsline {subsection}{\numberline {3.4}Advantages}{7}%
-\contentsline {section}{\numberline {4}Frequency Modulation}{8}%
-\contentsline {section}{\numberline {5}Experimentation}{9}%
-\contentsline {section}{\numberline {6}Simulation}{10}%
-\contentsline {section}{\numberline {7}Code}{11}%
-\contentsline {section}{\numberline {8}Attenuation}{12}%
-\contentsline {section}{\numberline {9}Demodulation}{13}%
+\contentsline {subsection}{\numberline {2.3}Modulation Process}{6}%
+\contentsline {section}{\numberline {3}Amplitude Modulation(AM)}{8}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{8}%
+\contentsline {subsection}{\numberline {3.2}Modulation Process}{8}%
+\contentsline {subsection}{\numberline {3.3}Types of Amplitude Modulation}{10}%
+\contentsline {subsection}{\numberline {3.4}Advantages}{10}%
+\contentsline {section}{\numberline {4}Frequency Modulation}{11}%
+\contentsline {section}{\numberline {5}Experimentation}{12}%
+\contentsline {section}{\numberline {6}Simulation}{13}%
+\contentsline {section}{\numberline {7}Code}{14}%
+\contentsline {section}{\numberline {8}Attenuation}{15}%
+\contentsline {section}{\numberline {9}Demodulation}{16}%
