@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.7.10)  11 JUL 2020 01:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.6.29)  11 JUL 2020 02:15
 entering extended mode
 **./SDC1.tex
 (SDC1.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (G:\MikTeX\tex/latex/base\article.cls
+L3 programming layer <2020-03-06>
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(G:\MikTeX\tex/latex/base\size12.clo
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -20,16 +21,21 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(G:\MikTeX\tex/latex/geometry\geometry.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(G:\MikTeX\tex/latex/graphics\keyval.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(G:\MikTeX\tex/generic/iftex\ifvtex.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
+y"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (G:\MikTeX\tex/generic/iftex\iftex.sty
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count175
@@ -44,32 +50,41 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen141
 \Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks16
- (G:\MikTeX\tex/latex/geometry\geometry.cfg))
-(G:\MikTeX\tex/generic/genmisc\kbordermatrix.sty
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/genmisc\kborder
+matrix.sty"
 Package: kbordermatrix 2011/09/21 Bordered matrix with brackets
 \kbcolsep=\skip49
 \kbrowsep=\skip50
 \br@kwd=\skip51
 \k@bordht=\skip52
 )
-(G:\MikTeX\tex/latex/amsmath\amsmath.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
-(G:\MikTeX\tex/latex/amsmath\amstext.sty
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(G:\MikTeX\tex/latex/amsmath\amsgen.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen143
 ))
-(G:\MikTeX\tex/latex/amsmath\amsbsy.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen144
 )
-(G:\MikTeX\tex/latex/amsmath\amsopn.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count178
@@ -110,61 +125,81 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-(G:\MikTeX\tex/latex/pgfplots\pgfplots.sty
-(G:\MikTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgfplots\pgfplots
+.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+ts.revision.tex")
 Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
 
-(G:\MikTeX\tex/latex/graphics\graphicx.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(G:\MikTeX\tex/latex/graphics\graphics.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(G:\MikTeX\tex/latex/graphics\trig.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(G:\MikTeX\tex/latex/graphics-cfg\graphics.cfg
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(G:\MikTeX\tex/latex/graphics-def\pdftex.def
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
 )
-(G:\MikTeX\tex/latex/pgf/frontendlayer\tikz.sty
-(G:\MikTeX\tex/latex/pgf/basiclayer\pgf.sty
-(G:\MikTeX\tex/latex/pgf/utilities\pgfrcs.sty
-(G:\MikTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer
+\tikz.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pg
+f.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+rcs.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-common.tex"
 \pgfutil@everybye=\toks22
 \pgfutil@tempdima=\dimen154
 \pgfutil@tempdimb=\dimen155
 
-(G:\MikTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
-(G:\MikTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-common-lists.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-latex.def"
 \pgfutil@abb=\box47
 
-(G:\MikTeX\tex/latex/ms\everyshi.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(G:\MikTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
-(G:\MikTeX\tex/generic/pgf\pgf.revision.tex)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfrcs.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisio
+n.tex")
 Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/latex/pgf/basiclayer\pgfcore.sty
-(G:\MikTeX\tex/latex/pgf/systemlayer\pgfsys.sty
-(G:\MikTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pg
+fcore.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\p
+gfsys.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys.code.tex"
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeys.code.tex"
 \pgfkeys@pathtoks=\toks23
 \pgfkeys@temptoks=\toks24
 
-(G:\MikTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks25
 ))
 \pgf@x=\dimen156
@@ -188,29 +223,36 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 \t@pgf@tokc=\toks28
 \pgf@sys@id@count=\count194
 
-(G:\MikTeX\tex/generic/pgf/systemlayer\pgf.cfg
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgf.cfg"
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(G:\MikTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(G:\MikTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfsyssoftpath@smallbuffer@items=\count195
 \pgfsyssoftpath@bigbuffer@items=\count196
 )
-(G:\MikTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(G:\MikTeX\tex/latex/xcolor\xcolor.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(G:\MikTeX\tex/latex/graphics-cfg\color.cfg
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -224,13 +266,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcore.code.tex"
 Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/math\pgfmath.code.tex
-(G:\MikTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
-(G:\MikTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hcalc.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hutil.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hparser.code.tex"
 \pgfmath@dimen=\dimen166
 \pgfmath@count=\count197
 \pgfmath@box=\box48
@@ -238,20 +285,32 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmath@stack@operand=\toks30
 \pgfmath@stack@operation=\toks31
 )
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
-(G:\MikTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.basic.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.trigonometric.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.random.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.comparison.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.base.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.round.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.misc.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.integerarithmetics.code.tex")))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count198
 ))
-(G:\MikTeX\tex/generic/pgf/math\pgfint.code.tex)
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint
+.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@picminx=\dimen167
 \pgf@picmaxx=\dimen168
@@ -268,104 +327,133 @@ File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@zx=\dimen179
 \pgf@zy=\dimen180
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@path@lastx=\dimen181
 \pgf@path@lasty=\dimen182
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@shorten@end@additional=\dimen183
 \pgf@shorten@start@additional=\dimen184
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box49
 \pgf@hbox=\box50
 \pgf@layerbox@main=\box51
 \pgf@picture@serial@count=\count199
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgflinewidth=\dimen185
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@pt@x=\dimen186
 \pgf@pt@y=\dimen187
 \pgf@pt@temp=\dimen188
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowsep=\dimen189
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen190
 \pgf@sys@shading@range@num=\count266
 \pgf@shadingcount=\count267
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfexternal@startupbox=\box52
 ))
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(G:\MikTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodeparttextbox=\box53
 )
-(G:\MikTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(G:\MikTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility
+\pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@nodesepstart=\dimen191
 \pgf@nodesepend=\dimen192
 )
-(G:\MikTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility
+\pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(G:\MikTeX\tex/latex/pgf/utilities\pgffor.sty
-(G:\MikTeX\tex/latex/pgf/utilities\pgfkeys.sty
-(G:\MikTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
-(G:\MikTeX\tex/latex/pgf/math\pgfmath.sty
-(G:\MikTeX\tex/generic/pgf/math\pgfmath.code.tex))
-(G:\MikTeX\tex/generic/pgf/utilities\pgffor.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+for.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+keys.sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeys.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.
+sty"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gffor.code.tex"
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/math\pgfmath.code.tex)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex")
 \pgffor@iter=\dimen193
 \pgffor@skip=\dimen194
 \pgffor@stack=\toks32
 \pgffor@toks=\toks33
 ))
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz\tikz.code.tex"
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@plot@mark@count=\count268
 \pgfplotmarksize=\dimen195
@@ -387,7 +475,8 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikznumberofcurrentchild=\count271
 \tikz@fig@count=\count272
 
-(G:\MikTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+modulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmatrixcurrentrow=\count273
 \pgfmatrixcurrentcolumn=\count274
@@ -395,11 +484,14 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 \tikz@expandcount=\count276
 
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code
-.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (G:\MikTeX\tex/generic/pgfplots\pgfplots.code.tex
-(G:\MikTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+)))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+ts.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tscore.code.tex"
 \t@pgfplots@toka=\toks34
 \t@pgfplots@tokb=\toks35
 \t@pgfplots@tokc=\toks36
@@ -407,43 +499,73 @@ File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \c@pgfplots@coordindex=\count277
 \c@pgfplots@scanlineindex=\count278
 
-(G:\MikTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
-(G:\MikTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
-(G:\MikTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.t
-ex (G:\MikTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
-(G:\MikTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
-(G:\MikTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
-(G:\MikTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex
-) (G:\MikTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/sys\pg
+fplotssysgeneric.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/libs\p
+gfplotslibrary.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/oldpgf
+compatib\pgfplotsoldpgfsupp_loader.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryfpu.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\p
+gfplotsutil.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/listst
+ructure\pgfplotsliststructure.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/listst
+ructure\pgfplotsliststructureext.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/listst
+ructure\pgfplotsarray.code.tex"
 \c@pgfplotsarray@tmp=\count279
 )
-(G:\MikTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
-(G:\MikTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/listst
+ructure\pgfplotsmatrix.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/numtab
+le\pgfplotstableshared.code.tex"
 \c@pgfplotstable@counta=\count280
 \t@pgfplotstable@a=\toks37
 )
-(G:\MikTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
-(G:\MikTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
-(G:\MikTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
-(G:\MikTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
-(G:\MikTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/listst
+ructure\pgfplotsdeque.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\p
+gfplotsbinary.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\p
+gfplotsbinary.data.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\p
+gfplotsutil.verb.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/libs\p
+gflibrarypgfplots.surfshading.code.tex"
 \c@pgfplotslibrarysurf@no=\count281
 
-(G:\MikTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
-x.def))) (G:\MikTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
-(G:\MikTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
-(G:\MikTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
-(G:\MikTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
-(G:\MikTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
-(G:\MikTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
-(G:\MikTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
-(G:\MikTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
-(G:\MikTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
-(G:\MikTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
-(G:\MikTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
-(G:\MikTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
-code.tex (G:\MikTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/sys\pg
+flibrarypgfplots.surfshading.pgfsys-pdftex.def")))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\p
+gfplotscolormap.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\p
+gfplotscolor.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tsstackedplots.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tsplothandlers.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tsmeshplothandler.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tsmeshplotimage.code.tex")))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+ts.scaling.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tscoordprocessing.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+ts.errorbars.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+ts.markers.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+tsticks.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplo
+ts.paths.code.tex")
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduledecorations.code.tex"
 \pgfdecoratedcompleteddistance=\dimen261
 \pgfdecoratedremainingdistance=\dimen262
 \pgfdecoratedinputsegmentcompleteddistance=\dimen263
@@ -455,14 +577,14 @@ code.tex (G:\MikTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
 )
 \tikz@lib@dec@box=\box58
 )
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
-pathmorphing.code.tex
-(G:\MikTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorp
-hing.code.tex))
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
-pathreplacing.code.tex
-(G:\MikTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrepl
-acing.code.tex))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/d
+ecorations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/d
+ecorations\pgflibrarydecorations.pathreplacing.code.tex"))
 \pgfplots@numplots=\count283
 \pgfplots@xmin@reg=\dimen268
 \pgfplots@xmax@reg=\dimen269
@@ -471,16 +593,19 @@ acing.code.tex))
 \pgfplots@zmin@reg=\dimen272
 \pgfplots@zmax@reg=\dimen273
 )
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.co
-de.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryplotmarks.code.tex"
 File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
- (G:\MikTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryplotmarks.code.tex"
 File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(G:\MikTeX\tex/latex/mathtools\mathtools.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtoo
+ls.sty"
 Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
 
-(G:\MikTeX\tex/latex/tools\calc.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count284
 \calc@Bcount=\count285
@@ -492,7 +617,9 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count286
 \calc@Cskip=\skip58
-) (G:\MikTeX\tex/latex/mathtools\mhsetup.sty
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup
+.sty"
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
@@ -510,10 +637,12 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \l_MT_below_shortintertext_sep=\dimen282
 \xmathstrut@box=\box59
 \xmathstrut@dim=\dimen283
-) (G:\MikTeX\tex/latex/blindtext\blindtext.sty
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blindte
+xt.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(G:\MikTeX\tex/latex/tools\xspace.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count288
@@ -535,7 +664,8 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count304
 \c@blind@pangrammax=\count305
 )
-(G:\MikTeX\tex/latex/enumitem\enumitem.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem
+.sty"
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip60
 \enit@outerparindent=\dimen284
@@ -544,27 +674,31 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count306
 \enitdp@description=\count307
 )
-(G:\MikTeX\tex/latex/algorithms\algorithm.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithms\algori
+thm.sty"
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(G:\MikTeX\tex/latex/float\float.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count308
 \float@exts=\toks39
 \float@box=\box61
 \@float@everytoks=\toks40
 \@floatcapt=\box62
-) (G:\MikTeX\tex/latex/base\ifthen.sty
+) ("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks41
 \c@algorithm=\count309
 )
-(G:\MikTeX\tex/latex/base\textcomp.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty
+"
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(G:\MikTeX\tex/latex/algorithms\algorithmic.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithms\algori
+thmic.sty"
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count310
 \c@ALC@line=\count311
@@ -573,7 +707,8 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip61
 \algorithmicindent=\skip62
 )
-(G:\MikTeX\tex/latex/listings\listings.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
+.sty"
 \lst@mode=\count314
 \lst@gtempboxa=\box63
 \lst@token=\toks42
@@ -587,38 +722,47 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \lst@lineno=\count319
 \lst@maxwidth=\dimen288
 
-(G:\MikTeX\tex/latex/listings\lstmisc.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.
+sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count320
 \lst@skipnumbers=\count321
 \lst@framebox=\box64
 )
-(G:\MikTeX\tex/latex/listings\listings.cfg
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
+.cfg"
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(G:\MikTeX\tex/generic/babel\babel.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
 Package: babel 2020/03/22 3.42 The Babel package
- (G:\MikTeX\tex/generic/babel\switch.def
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
 File: switch.def 2020/03/22 3.42 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(G:\MikTeX\tex/latex/arabi\bblopts.cfg
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(G:\MikTeX\tex/latex/babel-english\english.ldf
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\eng
+lish.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-(G:\MikTeX\tex/generic/babel\babel.def
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
 File: babel.def 2020/03/22 3.42 Babel common definitions
 \babel@savecnt=\count322
 \U@D=\dimen289
 
-(G:\MikTeX\tex/generic/babel\txtbabel.def)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
 \bbl@readstream=\read3
 \bbl@dirlevel=\count323
 )
@@ -629,10 +773,12 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language76) on input line 108.
 ))
-(G:\MikTeX\tex/latex/csquotes\csquotes.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes
+.sty"
 Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
 
-(G:\MikTeX\tex/latex/etoolbox\etoolbox.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox
+.sty"
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count324
 )
@@ -644,13 +790,15 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \csq@tshold=\count330
 \csq@ltx@everypar=\toks43
 
-(G:\MikTeX\tex/latex/csquotes\csquotes.def
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes
+.def"
 File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(G:\MikTeX\tex/latex/csquotes\csquotes.cfg
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes
+.cfg"
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling multilingual quotes.
@@ -659,22 +807,25 @@ Package csquotes Info: Redefining alias 'english' -> 'english/american'.
 Package csquotes Info: Allocating character ".
 \fixbox=\box65
 
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.
-tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryarrows.code.tex"
 File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
- (G:\MikTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryarrows.code.tex"
 File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \arrowsize=\dimen290
 ))
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryautomata.cod
-e.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryautomata.code.tex"
 File: tikzlibraryautomata.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.multi
-part.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryshapes.multipart.code.tex"
 File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(G:\MikTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/s
+hapes\pgflibraryshapes.multipart.code.tex"
 File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodepartlowerbox=\box66
 \pgfnodeparttwobox=\box67
@@ -697,27 +848,41 @@ File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodepartsixbox=\box84
 \pgfnodepartfivebox=\box85
 )))
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.
-code.tex
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (G:\MikTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryarrows.meta.code.tex"
 File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowinset=\dimen291
 \pgfarrowlength=\dimen292
 \pgfarrowwidth=\dimen293
 \pgfarrowlinewidth=\dimen294
 )
-(G:\MikTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.te
-x
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (G:\MikTeX\tex/latex/l3backend\l3backend-pdfmode.def
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count331
 \l__pdf_internal_box=\box86
-) (SDC1.aux)
+) (SDC1.aux
+
+LaTeX Warning: Label `eq:erl' multiply defined.
+
+
+LaTeX Warning: Label `eq:erl' multiply defined.
+
+
+LaTeX Warning: Label `eq:erl' multiply defined.
+
+)
 \openout1 = `SDC1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -769,7 +934,9 @@ LaTeX Font Info:    ... okay on input line 47.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(G:\MikTeX\tex/context/base/mkii\supp-pdf.mkii
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count332
 \scratchdimen=\dimen295
@@ -782,28 +949,37 @@ LaTeX Font Info:    ... okay on input line 47.
 \MPnumerator=\count336
 \makeMPintoPDFobject=\count337
 \everyMPtoPDFconversion=\toks45
-) (G:\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
-(G:\MikTeX\tex/generic/infwarerr\infwarerr.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwa
+rerr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(G:\MikTeX\tex/latex/grfext\grfext.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty
+"
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(G:\MikTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kv
+definekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
-(G:\MikTeX\tex/latex/kvoptions\kvoptions.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptio
+ns.sty"
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(G:\MikTeX\tex/generic/ltxcmds\ltxcmds.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds
+.sty"
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(G:\MikTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvset
+keys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(G:\MikTeX\tex/latex/pdftexcmds\pdftexcmds.sty
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftex
+cmds.sty"
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -816,8 +992,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
-)
-ABD: EveryShipout initializing macros
+) ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.17} (current compat level: 1.12).
 
@@ -834,8 +1009,8 @@ LaTeX Warning: No \author given.
 [1
 
 
-{C:/Users/91995/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./NIT_Silch
-ar_logo.png>] [1] (SDC1.toc)
+{C:/Users/lenovo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./NIT_Silc
+har_logo.png>] [1] (SDC1.toc)
 \tf@toc=\write4
 \openout4 = `SDC1.toc'.
 
@@ -863,27 +1038,60 @@ File: ./SDC-Phase Reversal_1.png Graphic file (type png)
 <use ./SDC-Phase Reversal_1.png>
 Package pdftex.def Info: ./SDC-Phase Reversal_1.png  used on input line 279.
 (pdftex.def)             Requested size: 271.7835pt x 161.2445pt.
- [9 <./SDC-Phase Reversal_1.png>] [10] [11] [12] [13] [14] [15] [16] (SDC1.aux)
+ [9 <./SDC-Phase Reversal_1.png>]
+<./AM modulation_1.png, id=50, 786.68906pt x 455.45157pt>
+File: ./AM modulation_1.png Graphic file (type png)
+<use ./AM modulation_1.png>
+Package pdftex.def Info: ./AM modulation_1.png  used on input line 337.
+(pdftex.def)             Requested size: 448.4407pt x 259.63094pt.
+ [10 <./AM modulation_1.png>] [11] [12]
+<BD1.png, id=62, 1176.64594pt x 414.79968pt>
+File: BD1.png Graphic file (type png)
+<use BD1.png>
+Package pdftex.def Info: BD1.png  used on input line 416.
+(pdftex.def)             Requested size: 470.65004pt x 165.91693pt.
+
+Overfull \hbox (17.68214pt too wide) in paragraph at lines 416--417
+[][] 
+ []
+
+[13 <./BD1.png>] [14]
+<BD2.png, id=70, 962.84718pt x 336.50719pt>
+File: BD2.png Graphic file (type png)
+<use BD2.png>
+Package pdftex.def Info: BD2.png  used on input line 467.
+(pdftex.def)             Requested size: 385.13205pt x 134.60048pt.
+ [15 <./BD2.png>] [16] [17] [18] [19] [20] (SDC1.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 29082 strings out of 480898
- 707552 string characters out of 2917024
- 1679763 words of memory out of 3000000
- 44479 multiletter control sequences out of 15000+200000
+ 29104 strings out of 480898
+ 723737 string characters out of 2897827
+ 1679831 words of memory out of 3000000
+ 44498 multiletter control sequences out of 15000+200000
  539622 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,9n,100p,847b,2153s stack positions out of 5000i,500n,10000p,200000b,50000s
-{G:/MikTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<G:/MikTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><G:/MikTeX/fonts/type1/public/amsfonts/cm/cmex10.p
-fb><G:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><G:/MikTeX/fonts/type1/
-public/amsfonts/cm/cmmi8.pfb><G:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
-b><G:/MikTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><G:/MikTeX/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb><G:/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-G:/MikTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><G:/MikTeX/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb><G:/MikTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on SDC1.pdf (17 pages, 332207 bytes).
+{C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/c
+m-super-ts1.enc}<C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/lenovo/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/lenovo/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
+s/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr6.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lenovo/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/lenovo/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users
+/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.
+pfb>
+Output written on SDC1.pdf (21 pages, 535493 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

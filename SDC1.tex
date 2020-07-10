@@ -333,6 +333,12 @@
 		\begin{equation}
 		Y(f)=\dfrac{A_c}{2}[\delta(f+f_c)+\delta(f-f_c)]+\dfrac{k_a A_c}{2}[M(f+f_c)+M(f-f_c)]
 		\end{equation}
+		\begin{center}
+			\includegraphics[width=0.99 \textwidth]{./AM modulation_1.png}
+		\end{center}
+		\begin{center}
+			The above figure represents all the signals given by \textit{equation} $5$. Figure (a) in above gives the frequency spectrum of signal $m(t)$
+		\end{center}
 		\subsection{Types of Amplitude Modulation}
 		\begin{flushleft}
 			\begin{itemize}
@@ -349,6 +355,124 @@
 	\end{flushleft}
 	\pagebreak
 	\section{Frequency Modulation}
+	\begin{flushleft}
+	The angle modulation in which the instantaneous frequency $f_i(t)$ of the carrier signal is varied linearly with the message signal is called frequency modulation.Mathematically, if $m(t)$ be the message signal(voltage waveform) and $f_c$ be the frequency of the unmodulated carrier  signal then 
+	\begin{equation} \label{eq:erl}
+	f_i(t)=f_c+k_fm(t)
+	\end{equation}
+	where $k_f$ is the frequency-sensitivity factor of the modulator(in hertz per volt)
+	\subsection{Time Equation for Frequency Modulated Wave}
+	Let $\theta_i(t)$ denote the angle of a modulated sinusoidal carrier at time t and the resulting angle-modulated wave is 
+	\begin{equation} \label{eq:erl}
+	s(t)=A_c \cos{[\theta_i(t)]}
+	\end{equation}
+	where $A_c$ is the carrier amplitude.\\
+	If $f_i(t)$ be the instantaneous frequency of resulting FM wave then 
+	\begin{equation} \label{eq:erl}
+	\displaystyle{f_i(t)= \frac{1}{2\pi}\frac{d\theta_i(t)}{dt}}
+	\end{equation}
+	Integrating Eq (3) with respect to time, we get
+	
+	
+			$$\theta_i(t)= 2\pi \int_0^tf_i(\tau)\,d\tau=2\pi f_ct+2\pi k_f \int_0^tm(\tau)\,d\tau$$
+			
+	%$$\theta_i(t)= 2\pi \int_0^tf_i(\tau)\,d\tau$=2\pi f_ct+2\pi k_f \int_0^tm(\tau)\,d\tau$$
+	\begin{flushleft}
+		where the second term accounts for the increase or decrease in the instantaneous phase due to the message signal $m(t)$.\\
+		Therefore, the frequency modulated wave is given by
+	\end{flushleft}
+	$$s(t)=A_c \cos{[2\pi f_ct+2\pi k_f \int_0^tm(\tau)\,d\tau]}$$ 
+	\subsection{Narrow Band Frequency Modulation}
+	Consider a sinusoidal modulating wave defined by
+	$$m(t)= A_m \cos{2\pi f_m t}$$
+	Then instantaneous frequency of the resulting FM wave is
+	%%NILAM CHECK THIS-> I have changes
+	\begin{center} \label{eq:erl}
+	$f_i(t)=f_c+k_f A_m \cos{2\pi f_m t}$\\
+	$=f_c+\Delta f \cos{2\pi f_m t}$
+	\end{center}
+	where $\Delta f= k_f A_m $ is called the frequency deviation which represents the maximum departure of the instantaneous frequency of the FM wave from the carrier frequency.\\
+	The angle $\theta_i(t)$ of the FM wave is given by
+	$$\theta_i(t)=2\pi f_ct+2\pi k_f \int_0^tA_m \cos{2\pi f_m t} \,d\tau$$
+	Or             $$\theta_i(t)=2\pi f_ct+\frac{\Delta f}{f_m} \sin{2 \pi f_m t}$$
+	Or             $$\theta_i(t)=2\pi f_ct+\beta \sin{2 \pi f_m t}$$
+	where $\displaystyle{\beta=\frac{\Delta f}{f_m}}$ is called
+	the modulation index of the FM wave( measured in radians).
+	
+	The resulting FM wave is 
+	\begin{equation}
+	s(t)=A_c \cos{[2\pi f_ct+\beta \sin{2 \pi f_m t}]}
+	\end{equation}
+	Or
+	$$s(t)=A_c \cos{[2\pi f_ct]}\cos{[\beta \sin{2 \pi f_m t}]}-A_c \sin{[2\pi f_ct]}\sin{[\beta \sin{2 \pi f_m t}]}  $$
+	For NBFM the modulation index is small compared to one radian.So we can assume 
+	$$\cos{[\beta \sin{2 \pi f_m t}]}=1$$
+	and $$\sin{[\beta \sin{2 \pi f_m t}]}=\beta \sin{2 \pi f_m t}$$
+	Then the narrow band frequency modulated signal is 
+	\begin{equation}
+	s(t)= A_c \cos{[2\pi f_ct]}- \beta A_c\sin{[2 \pi f_c t]} \sin{[2 \pi f_m t]}
+	\end{equation}
+	\begin{figure}
+		\includegraphics[scale=0.4]{BD1.png}
+		\caption{Block diagram of an indirect method for generating a narrow-band FM wave.}
+		\label{BD1}
+	\end{figure}
+	A block diagram is shown above of generating NBFM signal. This modulator involves splitting the carrier wave $A_c\cos{2\pi f_c t}$ into two paths. One path is direct and the other path contains a degree phase-shifting network and a product modulator, the combination of which generates a DSB-SC modulated wave. The difference between these two signals produces a narrow-band FM wave.
+	
+	\subsection{Wide Band Frequency Modulation}
+	The frequency modulated signal for which modulation index $\beta$ is greater than 1 is called wide band frequency modulated signal.\\
+	The time equation for WBFM signal can be written with the help of Bessel function. The wide band frequency modulated signal $s(t)$ can be written as 
+	\begin{equation}
+	s(t)= A_c \sum \limits_{n=-\infty}^\infty J_n(\beta) \cos{[2\pi(f_c+nf_m)t]}
+	\end{equation}
+	The discrete spectrum of $s(t)$ is obtained by taking the Fourier transforms of both sides of Eq (7) as below
+	\begin{equation}
+	S(f)= \frac{A_c}{2} \sum \limits_{n=-\infty}^\infty J_n(\beta)[ \delta(f-f_c-nf_m)+\delta(f+f_c+nf_m) ]
+	\end{equation}
+	where $S(f)$ is Fourier Transform of $s(t)$. The above equation shows that the spectrum of $S(f)$ consists of an infinite number of delta functions spaced at $f=f_c\pm nf_m$ for n=0,1,2,$\cdots$
+	\subsubsection{Power of a WBFM signal}
+	The average power of an WBFM wave can be determined from
+	\begin{equation}
+	P_t= \sum \limits_{n=-\infty}^\infty \frac{[{A_cJ_n(\beta)}]^2}{2}
+	\end{equation}
+	which can be simplified using the property
+	$$\sum \limits_{n=-\infty}^\infty J_n(\beta)^2=1$$
+	The simplified average power of WBFM signal is
+	\begin{equation}
+	P_t= \frac{A_c^2}{2}
+	\end{equation}
+	
+	\subsection{Carson's Rule}
+	In theory, an FM wave contains an infinite number of side-frequencies so that the bandwidth required to transmit such a modulated wave is similarly infinite in extent.But in practice, the FM wave is effectively limited to a finite number of significant side-frequencies compatible with a specified amount of distortion.
+	Let us consider first the case of an FM wave generated by a single-tone modulating wave of frequency $f_m$. In such an FM wave, the side-frequencies that are separated from the carrier frequency $f_c$ by an amount greater than the frequency deviation $\Delta f$ decrease rapidly toward zero, so that the bandwidth always exceeds the total frequency excursion, but nevertheless is limited. Specifically, we may identify two limiting cases: \\
+	1. For large values of the modulation index $\beta$the bandwidth approaches, and is only slightly greater than the total frequency excursion $2\Delta f$\\
+	2. For small values of the modulation index $\beta$ the spectrum of the FM wave is effectively limited to the carrier frequency $f_c$ and one pair of side-frequencies at$f_c\pm f_m$ so that the bandwidth approaches$2f_m$\\
+	Thus, the transmission bandwidth of an FM wave generated by a single-tone modulating wave of frequency $f_m$ is defined by
+	$$B_T=2\Delta f +2f_m=2\Delta f(1+\frac{1}{\beta}) $$
+	This is called Carson's rule.
+	
+	
+	\subsection{Generation of FM Waves}
+	There are two methods of generating frequency modulated waves, the first one is direct and the other indirect method.
+	\subsubsection{Direct Method}
+	The direct method uses a sinusoidal oscillator, with one of the reactive elements (like capacitive element) in the tank circuit of the oscillator being directly controllable by the message signal. It is capable of providing large frequency deviations. But a serious limitation of the direct method is the tendency for the carrier frequency to drift, which is usually unacceptable for commercial radio applications.\\
+	To overcome this limitation, frequency
+	stabilization of the FM generator is required, which is realized through the use of feedback around the oscillator.
+	Although the oscillator may be simple to build, the use of frequency stabilization adds system complexity to the design of the frequency modulator.
+	
+	\subsubsection{Indirect Method:Armstrong Modulator}
+	\begin{center}
+		\begin{figure}[!ht]
+			\centering
+			\includegraphics[scale=0.4]{BD2.png}
+			\caption{Block diagram of an indirect method for generating a narrow-band FM wave.}
+			\label{BD2}
+		\end{figure}
+	\end{center}
+	
+	
+	A simplified block diagram of this indirect FM system is shown in below fig. The message signal $m(t)$ is first integrated and then used to phase-modulate a crystal-controlled oscillator which provides frequency stability. In order to minimize the distortion inherent in the phase modulator, the maximum phase deviation or modulation index is purposely kept small, thereby resulting in a narrow-band FM wave. The narrow band FM wave is next multiplied in frequency by means of a frequency multiplier so as to produce the desired wide-band FM wave.
+	\end{flushleft}
 	\pagebreak
 	\section{Experimentation}
 	\pagebreak
