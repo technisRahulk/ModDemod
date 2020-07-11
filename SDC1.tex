@@ -73,142 +73,227 @@
 	\cleardoublepage
 	\section{Introduction}\label{sec:intro}
 	\begin{flushleft}
+		Communication has been an integral part of the human civilization throughout the course of history.It is a way to transfer information from one place to anotherThe modern communication is very much different from 
+		the communication in the ancient times.
+		The history of data communication dates back to the early 19th century. With the advancement of the technological developments that enjoyed commercial, government and military contributions, data communication
+		evolved from simple wired connections to a robust global exchange of information. Data communication finds its earliest roots in the development of the telegraph system. After that various wired communication sytems were
+		developed and eventually wireless communications came into being.
+		\paragraph{}
+		Data communication refers to the transfer of data from one device to another using some transmission medium such as wire cables. A device can only take part in communication if it is a part of a communication system based 
+		on hardware and software. A data communication system collects data from remote locations through data transmission circuits, and then outputs the processed results to remote locations. It is not bounded by any geographical 
+		location and can be used to transmit any data to any remote location.
+		\paragraph{}
+		The effectiveness of a data commmunication sysytem depends on four fundamental characteristics :
+		\begin{itemize}
+			\item \textbf{Delivery : } The system must send the data to the intended device or user only.
+			\item \textbf{Accuracy : } The system must send the data accurately to the destination receiver(s). 
+			\item \textbf{Timeliness : } The system should deliver the data in a timely manner. Data that are delivered late are useless.
+			\item \textbf{Jitter : } Jitter means the variation in the packet arrival time. Uneven delay in the packet arrival time results in uneven quality.
+		\end{itemize}
+		\paragraph{} 
+		A data communication system has five components :
+		\begin{itemize}
+			\item \textbf{Message : } A message is the information or the data that needs to be communicated.It can be in any form like a text message , audio message , video message etc.
+			\item \textbf{Sender : } The sender is the device that initiates the communication process by sending the message the needs to be communicated at the receiver end. It can be a computer, workstation, telephone handset etc.
+			\item \textbf{Receiver : } The receiver is the device that receives the information. It can be computer, workstation, telephone handset etc.
+			\item \textbf{Transmission medium : } The transmission medium is the physical path by which a message travels from a sender to receiver. It can be a twisted-pair cable, fiber-optic cable, radio waves etc.
+			\item \textbf{Protocal : } A protocol refers to the set of rules and regulations that governs the data communication. Without a protocal no two connected devices can communicate.\\\bigskip
+		\end{itemize}
+		\subsection{Data Flow}
+		Communication between two devices can be of three kinds which are discussed below :
+		
+		\begin{itemize}
+			\item \textbf{Simplex : } In simplex mode, the communication is unidirectional. Only one device on the link can send the message and the other one can only receive. Keyboards and traditional monitors are some of the examples of simplex 		  		devices. The keyboard can only introduce input; the monitor can only accept output.
+			\begin{center}
+				{\includegraphics[width=0.80 \textwidth]{./images/simplexx.PNG}}tt
+			\end{center}
+			\begin{center}
+				Figure 1.1 : Reprentation of Simplex data flow.
+			\end{center}
+			\item \textbf{Half-Duplex : } In half-duplex mode, each of the stations can send and receive the message, but not at the same time. The entire capacity of the channel can be utilized for each direction.
+			\begin{center}
+				{\includegraphics[width=0.80 \textwidth]{./images/half-duplex.PNG}}
+			\end{center}
+			\begin{center}
+				Figure 1.2 : Reprentation Half-Duplex data flow.
+			\end{center}
+			\item \textbf{Full-Duplex : } In full-duplex mode, each stations can transmit and receive simultaneously. The capacity of the channel, however, must be divided between the two directions. A common example of this is telephone network.
+			\begin{center}
+				{\includegraphics[width=0.80 \textwidth]{./images/full-duplex.PNG}}
+			\end{center}
+			\begin{center}
+				Figure 1.3 : Reprentation of Full-Duplex data flow.\\\bigskip
+			\end{center}
+		\end{itemize}
+		
 		\subsection{Types of Data Communication}
 		\begin{flushleft}
-			content...
+			The data communication can be divided into the following types :
+			\begin{itemize}
+				\item \textbf{Analog Communication : } In analog data communication, the data is sent from one device to another in the form of analog signals or continuous waves. Analog signals are based on a continuous
+				electrical wave. Common examples of analog signals are sound waves, light waves or radio waves.
+				\item \textbf{Digital Communication : } In digital data communication, the data is sent from one place to another in the form of electrical pulses or digital signals. A digital signal is based on electric pulses. 
+				Each electrical pulse represents a stream of bits joined together into bytes. In digital data transmission, data is sent through a telephone line, microwave system, and satellite.\\\bigskip
+			\end{itemize}
 		\end{flushleft}
+		
 		\subsection{Model of Communication}
 		\begin{flushleft}
-			content...
+			The whole communication process comprise of many small processes that enables the transmission and retrieval of the message signal. A typical communication system consists of various stages of processing of the message signal
+			The message, say an audio message, is fed to a transducer to convert the message into an electrical signal. This acts as the input signal and has a low frequency. This input signal is then passed through the transmitter where the signal
+			is modulated with the help of a high frequency carrier signal and the modulated signal is transmitted through transmitting antenna into the transmission channel. The modulated signal travels through the channel where some noise
+			can affect the transmitted signal. This signal is then catched by the receiver's antenna and demodulation process starts at the receiver end to take out the original message signal from the modulated signal. This signal is then again 
+			fed to the transducer to convert the output signal of the demodulator into the original message.
+			\begin{center}
+				{\includegraphics[width=0.80 \textwidth]{./images/modelofcomm.PNG}}
+			\end{center}
+			\begin{center}
+				Figure 1.4 : Schematic reprentation of the model of communication.\\\bigskip
+			\end{center}
 		\end{flushleft}
+		
 		\subsection{Modes of Communication}
 		\begin{flushleft}
-			content...
+			There are two kinds of modes of communication :
+			\begin{itemize}
+				\item \textbf{Broadcasting : } In the broadcasting mode of communication there is one sender from which message signals are transmitted to multiple receivers. This kind of communation is unideirectional. A common example of
+				bradcasting mode of communication is television network, radio network etc.
+				\item \textbf{Point-to-Point Communication : } In the point-to-point mode of communication, the message signal transimited by the sender is received by one receiver. This kind of communications are often bidirectional i.e. both the 
+				stations or devices can transmit and receive the message. A common example of point-to-point mode of communication is telephone network.\\\bigskip
+			\end{itemize}
 		\end{flushleft}
+		
 		\subsection{Techniques of Communication}
 		\begin{flushleft}
-			content...
+			\begin{itemize}
+				\item \textbf{Base-Band Communication : } In base-band communication the original message signal is transmitted without modulation into the channel. This kind of communication cannot be employed to long distance communication
+				due to the low frequency of the transmitted signal because of which it gets attenuated. Hence, it can be used locally over a small area. It also limits the number of signals that can be
+				transmitted through the channel because sending more signals over the channel may lead to interferences of the signals and hence a distorted signal is received at the receiving end.
+				\item \textbf{Band-Pass Communication : } In band-pass communication the original low frequency signal is modulated with the help of high frequency carrier signal is then transmitted over the channel. Due to high frequency of
+				the transmitted modulated signal, it is less affected by attenuation and can be transmitted over long distances. Band-pass communication enables multiplexing i.e. one channel can be used
+				to transmit multiple signals provided all have different frequencies.\\\bigskip
+			\end{itemize}
 		\end{flushleft}
+		
 	\end{flushleft}
 	\pagebreak
 	\section{Modulation}
-	
-\begin{flushleft}
-	\subsection{Need of Modulation}
 	\begin{flushleft}
-		\fontsize{12pt}{18pt}\selectfont
-		We must have some strong reasons for why to modulate our message signal as it makes the complete process of communication a bit complex.Here are a few points we need to have a look on :
-		\begin{enumerate}
-			\item {\large No interference: } Suppose there is a busy channel , where we need to transmit multiple signals , and if the range of frequency is common between any two signal there is a chance of interference among them. During Modulation, the message signal is processed using carrier signals having unique frequencies (carrier frequency) due to which there is no two signals in the channel having same range of frequency and hence the problem of interference is removed.For example , there are 3 signals viz. voice , audio and video whose frequency ranges from 300Hz - 35KHz, 20Hz-20KHz and  0Hz-4.5MHz respectively; being transmitted from the same channel so they are chances of interfering as the range is common.Modulating these signals with 3 different frequencies f1,f2 and f3 woulld help us deal with this.
-			
-			\item {\large Multiplexing: }The second point is a byproduct of the above advantage. Since, we can have an interference-absent signal transmission for multiple signals through a single channel that is the very idea of multiplexing, which has numerous applications in the field of data communication.Muxing brings along one more advantage of cost reduction.
-			
-			\item {\large Height Of Antenna: } Signals are actually transmitted and recieved using antennas, which is the most vital part of any bidirectional/unidirectional communication.We can see in the forthcoming sub-topic that height of the antenna could be reduced as a result of modulation.
-			
-			\item{\large Improves Signal To Noise Ratio: }As the frequency of the modulated signal is very high the chances of noise entry decreases abruptly, due to which the signal to noise improves substantially.
-			
-			\item{\large Long distance Transmission: }As the frequency increases, the power of signal increases and it does not attenuates easily while a low frequency signal fades out easily and cannot undergo long distance transmissions.
-		\end{enumerate}
-	\end{flushleft}
-	\subsection{Antenna Theory}
-	\begin{flushleft}
-		\fontsize{12pt}{18pt}\selectfont As we have already talked that,height of the transmitting/receiving antenna depends upon the the signal we are trying to work on.The theory talks about what should be the height of the antenna for a proper transmission; it says that \\\bigskip
-		\begin{center}  height of antenna(h) $\propto$ $\frac{wavelength(\lambda)}{4}$
-		\end{center}
-		we know that,
-		\begin{center}
-			$\lambda$ = $\frac{c}{f}$                        ,c is the speed of light
-		\end{center} 
-		From the above famous relation,it is clear that wavelength($\lambda$) varies inversely with frequency(f) of the signal.So the greater the frequency of the transmitting signal the smaller will be the value of $\lambda$ and hence the feasible will be the height of the antenna(h).
-		Suppose, we have a signal propagating with a frequency of 15kHz, then wavelength($\lambda$) is given by\\\bigskip
-		\begin{center}	$\lambda$= $\frac{3\times 10^8}{15 \times 10^3}$  \\\bigskip
-			= 20000 m                  
-		\end{center}
-		and the height of the antenna is, 
-		\begin{center}
-			h=$\frac{20000}{4}$    \\\bigskip
-			=5000 m
-		\end{center}
-		which is ofcourse not feasible to build.Hence, the frequency of 10KHz is also falling short for purpose that is why the above mentioned signals have frequencies in the range of MHz.The carrier frequencies in case of modulation have frequencies in this range , which makes it possible to build antennas of practical length.\\\bigskip
-		Suppose the frequency of the transmitting signal is 6MHz after modulating ,the wavelength of the signal is :
-		\begin{center}
-			$\lambda$= $\frac{3\times 10^8}{6 \times 10^6}$  \\\bigskip
-			=50m 
-		\end{center}
-		and now the height of the antenna is,
-		\begin{center}
-			h=$\frac{50}{4}$     \\\bigskip
-			= 12.5 m
-		\end{center}
-		This time the antenna seems practical to build and hence antenna theory plays a great role in deciding the carrier frequency or indirectly the height of the antennas.
-	\end{flushleft}
-	\subsection{Modulation Process}
-	\begin{flushleft}
-		\fontsize{12pt}{18pt}\selectfont
-		\begin{enumerate}
-			\item  {\large Continuous Wave Modulation(CWM): }The modulated signal in this case is continuous in time domain.It is further divided into : \\\bigskip
-			\begin{itemize}
-				\item {\fontsize{14pt}{20pt}\selectfont Amplitude Modulation(AM): } The amplitude of the carrier signal varies in accordance with the input baseband signal.Different types of AM are : \\\bigskip
-				\begin{enumerate}
-					\item \textbf{Double sideband Full Carrier(DSB-FC) }:The transmission of a modulated signal which contains a carrier along with sidebands is termed as DSB-FC.
-					
-					\item \textbf{Double sideband Suppressed carrier(DSB-SC) }: The above discussed transmission is known to be inefficient as two-third of the total power in the carrier wave is being wasted having no information.If we suppress the above type of signals and the power that is saved is distributed among the two sidebands we get DSB-SC.
-					
-					\item \textbf{ Single sideband Suppressed carrier(SSB-SC) }: As both the sidebands are  carrying same information two times, its better if we suppress one of the two. The suppression of one of them along with the carrier wave and transmitting a single sideband is what we call Single sideband Suppressed carrier system or SSB-SC.It has high power as compared to DSB-FC/DSB-SC.
-					
-					\item \textbf{Vestige sideband Suppressed carrier(VSB-SC) }: As transmission of two sidebands is unnecassary , but transmitting single sideband leads to loss of information.So in vestigial modulation a part of signal(vestige) is modulated along with each sideband.In other words, a part of upper side band is also transmitted with lower sideband.To avoid interferences, a guard band having very small width is also laid along with each sidebands.
-					VSB modulations are highly efficient and filter design is quite easy as high accuracy is not demanded.The only point where it lacks is demodulation becomes a difficult task in this kind of modulations.
-					
-					\item \textbf{Independent sideband Suppressed carrier(ISB-SC) }:Input signal is modulated by two different modulating signals.Here the transmitter comprises of two independent SSB-SC modulators. one of the modulator generates the upper sideband and the other generates the lower sideband.The output signals from the two modulators are combined to form a DSB ,where the sidebands are completely independent but are symmetrical about a common carrier freqeuncy.  \\\bigskip
-				\end{enumerate}
-				\item {\fontsize{14pt}{20pt}\selectfont Angle Modulation : }It has been further divided into two parts :
-				\begin{enumerate}
-					\item \textit{Frequency Modulation }: In this case,the carrier wave frequency is varied according to the modulating signal whereas the amplitude remains constant.Two types of FM are explained below :
-					\begin{enumerate}
-						
-						\item \textbf{Narrow Band FM : }As the name suggests,it is the FM wave with comparitively small bandwith.The modulation index is as small as 1 radian.\\\smallskip
-						Its uses are in the fields of FM mobile communications like ambulances,taxies,etc.  
-						
-						\item \textbf{Wide Band FM : }FM waves having infinitely large frequency comes under this category.It ideally contains the carrier wave and an infinite number of sidebands located symmetrically around it.\\\smallskip
-						Its widely applied in th fields of Television,FM radio,etc.
-					\end{enumerate}
-					\item \textit{Phase Modulation }: The variation of the phase of carrier wave linearly in accordance with the input signal is phase modulation.It is of two types :
-					\begin{enumerate}
-						\item \textbf{Narrow Band Phase Modulation }
-						\item \textbf{Wide Band Phase Modulation }
-					\end{enumerate}		        		
-				\end{enumerate}
-			\end{itemize}
-			\item  {\large Pulse Modulation(PM): }In this kind of modulation,some parameter of a pulse train is varied in accordance with the input message signal.It is mainly divided in two parts :
-			\begin{itemize}
-				\item {\fontsize{14pt}{20pt}\selectfont Analog Pulse Modulation(APM): }
-				\begin{enumerate}
-					\item \textbf{Amplitude PM  }
-					
-					\item \textbf{Position PM  }
-					
-					\item \textbf{Phase PM  }
-				\end{enumerate}
+		\subsection{Need of Modulation}
+		\begin{flushleft}
+			\fontsize{12pt}{18pt}\selectfont
+			We must have some strong reasons for why to modulate our message signal as it makes the complete process of communication a bit complex.Here are a few points we need to have a look on :
+			\begin{enumerate}
+				\item {\large No interference: } Suppose there is a busy channel , where we need to transmit multiple signals , and if the range of frequency is common between any two signal there is a chance of interference among them. During Modulation, the message signal is processed using carrier signals having unique frequencies (carrier frequency) due to which there is no two signals in the channel having same range of frequency and hence the problem of interference is removed.For example , there are 3 signals viz. voice , audio and video whose frequency ranges from 300Hz - 35KHz, 20Hz-20KHz and  0Hz-4.5MHz respectively; being transmitted from the same channel so they are chances of interfering as the range is common.Modulating these signals with 3 different frequencies f1,f2 and f3 woulld help us deal with this.
 				
-				\item {\fontsize{14pt}{20pt}\selectfont Digital Pulse Modulation(DPM): }
-				\begin{enumerate}
-					\item \textbf{Baseband : }
-					\begin{itemize}
-						\item Pulse Code Modulation(PCM)
-						\item Differential Pulse Code Modulation(D-PCM)
-						\item Delta Modulation
-						\item Adaptive Delta Modulation
-					\end{itemize}
-					\item \textbf{Bandpass : }
-					\begin{itemize}
-						\item Binary
-						\item M-ary
-					\end{itemize}
-				\end{enumerate}
-			\end{itemize}
-		\end{enumerate}
+				\item {\large Multiplexing: }The second point is a byproduct of the above advantage. Since, we can have an interference-absent signal transmission for multiple signals through a single channel that is the very idea of multiplexing, which has numerous applications in the field of data communication.Muxing brings along one more advantage of cost reduction.
+				
+				\item {\large Height Of Antenna: } Signals are actually transmitted and recieved using antennas, which is the most vital part of any bidirectional/unidirectional communication.We can see in the forthcoming sub-topic that height of the antenna could be reduced as a result of modulation.
+				
+				\item{\large Improves Signal To Noise Ratio: }As the frequency of the modulated signal is very high the chances of noise entry decreases abruptly, due to which the signal to noise improves substantially.
+				
+				\item{\large Long distance Transmission: }As the frequency increases, the power of signal increases and it does not attenuates easily while a low frequency signal fades out easily and cannot undergo long distance transmissions.
+			\end{enumerate}
+		\end{flushleft}
+		\subsection{Antenna Theory}
+		\begin{flushleft}
+			\fontsize{12pt}{18pt}\selectfont As we have already talked that,height of the transmitting/receiving antenna depends upon the the signal we are trying to work on.The theory talks about what should be the height of the antenna for a proper transmission; it says that \\\bigskip
+			\begin{center}  height of antenna(h) $\propto$ $\frac{wavelength(\lambda)}{4}$
+			\end{center}
+			we know that,
+			\begin{center}
+				$\lambda$ = $\frac{c}{f}$                        ,c is the speed of light
+			\end{center} 
+			From the above famous relation,it is clear that wavelength($\lambda$) varies inversely with frequency(f) of the signal.So the greater the frequency of the transmitting signal the smaller will be the value of $\lambda$ and hence the feasible will be the height of the antenna(h).
+			Suppose, we have a signal propagating with a frequency of 15kHz, then wavelength($\lambda$) is given by\\\bigskip
+			\begin{center}	$\lambda$= $\frac{3\times 10^8}{15 \times 10^3}$  \\\bigskip
+				= 20000 m                  
+			\end{center}
+			and the height of the antenna is, 
+			\begin{center}
+				h=$\frac{20000}{4}$    \\\bigskip
+				=5000 m
+			\end{center}
+			which is ofcourse not feasible to build.Hence, the frequency of 10KHz is also falling short for purpose that is why the above mentioned signals have frequencies in the range of MHz.The carrier frequencies in case of modulation have frequencies in this range , which makes it possible to build antennas of practical length.\\\bigskip
+			Suppose the frequency of the transmitting signal is 6MHz after modulating ,the wavelength of the signal is :
+			\begin{center}
+				$\lambda$= $\frac{3\times 10^8}{6 \times 10^6}$  \\\bigskip
+				=50m 
+			\end{center}
+			and now the height of the antenna is,
+			\begin{center}
+				h=$\frac{50}{4}$     \\\bigskip
+				= 12.5 m
+			\end{center}
+			This time the antenna seems practical to build and hence antenna theory plays a great role in deciding the carrier frequency or indirectly the height of the antennas.
+		\end{flushleft}
+		\subsection{Modulation Process}
+		\begin{flushleft}
+			\fontsize{12pt}{18pt}\selectfont
+			\begin{enumerate}
+				\item  {\large Continuous Wave Modulation(CWM): }The modulated signal in this case is continuous in time domain.It is further divided into : \\\bigskip
+				\begin{itemize}
+					\item {\fontsize{14pt}{20pt}\selectfont Amplitude Modulation(AM): } The amplitude of the carrier signal varies in accordance with the input baseband signal.Different types of AM are : \\\bigskip
+					\begin{enumerate}
+						\item \textbf{Double sideband Full Carrier(DSB-FC) }:The transmission of a modulated signal which contains a carrier along with sidebands is termed as DSB-FC.
+						
+						\item \textbf{Double sideband Suppressed carrier(DSB-SC) }: The above discussed transmission is known to be inefficient as two-third of the total power in the carrier wave is being wasted having no information.If we suppress the above type of signals and the power that is saved is distributed among the two sidebands we get DSB-SC.
+						
+						\item \textbf{ Single sideband Suppressed carrier(SSB-SC) }: As both the sidebands are  carrying same information two times, its better if we suppress one of the two. The suppression of one of them along with the carrier wave and transmitting a single sideband is what we call Single sideband Suppressed carrier system or SSB-SC.It has high power as compared to DSB-FC/DSB-SC.
+						
+						\item \textbf{Vestige sideband Suppressed carrier(VSB-SC) }: As transmission of two sidebands is unnecassary , but transmitting single sideband leads to loss of information.So in vestigial modulation a part of signal(vestige) is modulated along with each sideband.In other words, a part of upper side band is also transmitted with lower sideband.To avoid interferences, a guard band having very small width is also laid along with each sidebands.
+						VSB modulations are highly efficient and filter design is quite easy as high accuracy is not demanded.The only point where it lacks is demodulation becomes a difficult task in this kind of modulations.
+						
+						\item \textbf{Independent sideband Suppressed carrier(ISB-SC) }:Input signal is modulated by two different modulating signals.Here the transmitter comprises of two independent SSB-SC modulators. one of the modulator generates the upper sideband and the other generates the lower sideband.The output signals from the two modulators are combined to form a DSB ,where the sidebands are completely independent but are symmetrical about a common carrier freqeuncy.  \\\bigskip
+					\end{enumerate}
+					\item {\fontsize{14pt}{20pt}\selectfont Angle Modulation : }It has been further divided into two parts :
+					\begin{enumerate}
+						\item \textit{Frequency Modulation }: In this case,the carrier wave frequency is varied according to the modulating signal whereas the amplitude remains constant.Two types of FM are explained below :
+						\begin{enumerate}
+							
+							\item \textbf{Narrow Band FM : }As the name suggests,it is the FM wave with comparitively small bandwith.The modulation index is as small as 1 radian.\\\smallskip
+							Its uses are in the fields of FM mobile communications like ambulances,taxies,etc.  
+							
+							\item \textbf{Wide Band FM : }FM waves having infinitely large frequency comes under this category.It ideally contains the carrier wave and an infinite number of sidebands located symmetrically around it.\\\smallskip
+							Its widely applied in th fields of Television,FM radio,etc.
+						\end{enumerate}
+						\item \textit{Phase Modulation }: The variation of the phase of carrier wave linearly in accordance with the input signal is phase modulation.It is of two types :
+						\begin{enumerate}
+							\item \textbf{Narrow Band Phase Modulation }
+							\item \textbf{Wide Band Phase Modulation }
+						\end{enumerate}		        		
+					\end{enumerate}
+				\end{itemize}
+				\item  {\large Pulse Modulation(PM): }In this kind of modulation,some parameter of a pulse train is varied in accordance with the input message signal.It is mainly divided in two parts :
+				\begin{itemize}
+					\item {\fontsize{14pt}{20pt}\selectfont Analog Pulse Modulation(APM): }
+					\begin{enumerate}
+						\item \textbf{Amplitude PM  }
+						
+						\item \textbf{Position PM  }
+						
+						\item \textbf{Phase PM  }
+					\end{enumerate}
+					
+					\item {\fontsize{14pt}{20pt}\selectfont Digital Pulse Modulation(DPM): }
+					\begin{enumerate}
+						\item \textbf{Baseband : }
+						\begin{itemize}
+							\item Pulse Code Modulation(PCM)
+							\item Differential Pulse Code Modulation(D-PCM)
+							\item Delta Modulation
+							\item Adaptive Delta Modulation
+						\end{itemize}
+						\item \textbf{Bandpass : }
+						\begin{itemize}
+							\item Binary
+							\item M-ary
+						\end{itemize}
+					\end{enumerate}
+				\end{itemize}
+			\end{enumerate}
+		\end{flushleft}
 	\end{flushleft}
-\end{flushleft}
 	\pagebreak
 	\section{Amplitude Modulation(AM)}
 	\begin{flushleft}
