@@ -15,19 +15,20 @@
 \contentsline {section}{\numberline {3}Amplitude Modulation(AM)}{11}%
 \contentsline {subsection}{\numberline {3.1}Introduction}{11}%
 \contentsline {subsection}{\numberline {3.2}Modulation Process}{11}%
-\contentsline {subsection}{\numberline {3.3}Types of Amplitude Modulation}{14}%
-\contentsline {subsection}{\numberline {3.4}Advantages}{14}%
-\contentsline {section}{\numberline {4}Frequency Modulation}{15}%
-\contentsline {subsection}{\numberline {4.1}Time Equation for Frequency Modulated Wave}{15}%
-\contentsline {subsection}{\numberline {4.2}Narrow Band Frequency Modulation}{15}%
-\contentsline {subsection}{\numberline {4.3}Wide Band Frequency Modulation}{16}%
-\contentsline {subsubsection}{\numberline {4.3.1}Power of a WBFM signal}{17}%
-\contentsline {subsection}{\numberline {4.4}Carson's Rule}{17}%
-\contentsline {subsection}{\numberline {4.5}Generation of FM Waves}{18}%
-\contentsline {subsubsection}{\numberline {4.5.1}Direct Method}{18}%
-\contentsline {subsubsection}{\numberline {4.5.2}Indirect Method:Armstrong Modulator}{18}%
-\contentsline {section}{\numberline {5}Experimentation}{19}%
-\contentsline {section}{\numberline {6}Simulation}{20}%
-\contentsline {section}{\numberline {7}Code}{21}%
-\contentsline {section}{\numberline {8}Attenuation}{22}%
-\contentsline {section}{\numberline {9}Demodulation}{23}%
+\contentsline {subsection}{\numberline {3.3}Single Tone Modulation}{14}%
+\contentsline {subsection}{\numberline {3.4}Types of Amplitude Modulation}{15}%
+\contentsline {subsection}{\numberline {3.5}Advantages}{15}%
+\contentsline {section}{\numberline {4}Frequency Modulation}{16}%
+\contentsline {subsection}{\numberline {4.1}Time Equation for Frequency Modulated Wave}{16}%
+\contentsline {subsection}{\numberline {4.2}Narrow Band Frequency Modulation}{16}%
+\contentsline {subsection}{\numberline {4.3}Wide Band Frequency Modulation}{17}%
+\contentsline {subsubsection}{\numberline {4.3.1}Power of a WBFM signal}{18}%
+\contentsline {subsection}{\numberline {4.4}Carson's Rule}{18}%
+\contentsline {subsection}{\numberline {4.5}Generation of FM Waves}{19}%
+\contentsline {subsubsection}{\numberline {4.5.1}Direct Method}{19}%
+\contentsline {subsubsection}{\numberline {4.5.2}Indirect Method:Armstrong Modulator}{19}%
+\contentsline {section}{\numberline {5}Experimentation}{20}%
+\contentsline {section}{\numberline {6}Simulation}{21}%
+\contentsline {section}{\numberline {7}Code}{22}%
+\contentsline {section}{\numberline {8}Attenuation}{23}%
+\contentsline {section}{\numberline {9}Demodulation}{24}%

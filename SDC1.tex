@@ -436,6 +436,35 @@
 				\end{equation}
 			\end{itemize}
 		\end{flushleft}
+	
+		\subsection{Single Tone Modulation}
+		\begin{flushleft}
+			In this form of Amplitude Modulation both message and carrier waves are sinusoidal signals. We will do a brief mathematical analysis of the same,\\\smallskip
+			We will consider the message signal and the carrier signal as follows:\\\smallskip
+			\begin{equation}
+			m(t)=A_m cos(2 \pi f_m t)
+			\end{equation}
+			\begin{equation}
+			c(t)=A_c cos(2 \pi f_c t)
+			\end{equation}
+			The modulated signal will be,
+			\begin{equation}
+			y(t)=A_c [1+\mu cos(2 \pi f_m t)] cos(2 \pi f_c t)
+			\end{equation}
+			where, $\mu = k_a A_m$, and to avoid overmodulation $\mu$ should be kept relatively small \textit{i.e.,} $|\mu|<1$.\\\smallskip
+			If $A_{max}$ and $A_{min}$ represents the maximum and minimum values of the the envelope of the modulated wave then we have,
+			\begin{equation}
+			\dfrac{A_{max}}{A_{min}}=\dfrac{A_c (1+\mu)}{A_c (1-\mu)}
+			\end{equation}
+			\begin{center}
+				$\mu =\dfrac{A_{max} - A_{min}}{A_{max} + A_{min}}$
+			\end{center}
+			We have another useful relation for finding the modulation factor $\mu$.\\\smallskip
+			Using the following formula, and using it in \textit{equation} (9) we have,
+			\begin{center}
+				$y(t)=A_c cos(2 \pi f_c t) + \dfrac{1}{2}cos[2 \pi (f_c +f_m)t]$
+			\end{center}
+		\end{flushleft}
 		
 		\subsection{Types of Amplitude Modulation}
 		\begin{flushleft}
